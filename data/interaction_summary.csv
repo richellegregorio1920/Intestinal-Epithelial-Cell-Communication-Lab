@@ -1,0 +1,4 @@
+Protein A,Protein B,Database,Interaction Type,Detection Method,Organism,Publication,Accession,Interpretation
+FGF19,FGFR4,IntAct,Direct interaction,Solid-phase assay,Homo sapiens,PMID:19706524,EBI-15801053,Supports direct binding under in vitro conditions
+FGF19,FGFR4,OmniPath,Directed post-translational interaction,Not specified,Homo sapiens,7 references,O95750-P22455,Supports the ligand-receptor signaling relationship
+FGFR4,KLB,OmniPath/CORUM,Components of FGF19-FGFR4-KLB complex,Not specified in record,Homo sapiens,PMID:17627937,CORUM:6832,Supports inclusion of KLB in the heparin-induced complex; does not independently prove direct FGFR4-KLB binding
